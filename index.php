@@ -15,8 +15,9 @@ echo '</script>';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Best Management College in Delhi NCR | IT College in Delhi </title>
+    <title>Best Management College in Delhi NCR | IT College in Delhi. </title>
     <meta name="Ranked as the best management college in Delhi NCR & IT College in Delhi, IITM Janakpuri brings 25+ years of excellence & offers industry-aligned programmes.">
+    
     
     
     <!--Devd---->
